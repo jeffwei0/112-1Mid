@@ -1,0 +1,8 @@
+#example1{
+tr:nth-child(even){
+    background-color: rgba(128,128,128,0.3);
+    }
+}
+tr:hover{
+    background-color: rgba(160,160,160,0.col-3);
+}
