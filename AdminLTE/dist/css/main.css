@@ -6,3 +6,6 @@ tr:nth-child(even){
 tr:hover{
     background-color: rgba(160,160,160,0.col-3);
 }
+tr:hover td{
+    opacity: 0.1;
+}
