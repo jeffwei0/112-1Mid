@@ -3219,3 +3219,7 @@ input, select, textarea {
 			}
 
 	}
+
+	#contact-form input:hover, #contact-form textarea:hover {
+		background-color: #3eb08f;
+	}
